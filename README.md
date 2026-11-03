@@ -12,7 +12,7 @@
   <a href="#install"><img src="https://img.shields.io/badge/macOS-install-2563eb?logo=apple&logoColor=white" alt="macOS: install"></a>
 </p>
 
-A speedometer for your Claude Code usage limits, in the macOS menu bar. (*Kadans* is Turkish for cadence: the steady
+A speedometer for your Claude Code and Codex usage limits, in the macOS menu bar. (*Kadans* is Turkish for cadence: the steady
 rhythm a cyclist keeps.)
 
 <p align="center">
@@ -41,7 +41,8 @@ npx kadans@latest setup
 - Run the same command again to update.
 
 **Requirements:** macOS 13 or newer, Node.js 22 or newer, and Claude Code on a Pro or Max plan (Claude Code only shares
-usage data on those plans). The menu bar app needs Apple's Command Line Tools; if they are missing, setup tells you how to
+usage data on those plans). The Codex CLI is optional: if you use it, its limits show next to Claude's (read-only; the
+brake and throttle act on Claude Code). The menu bar app needs Apple's Command Line Tools; if they are missing, setup tells you how to
 add them, and the hooks and `npx kadans status` work in the meantime.
 
 In this file, `kadans` means `npx kadans`.
