@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/kadans"><img src="https://img.shields.io/npm/v/kadans?label=npm&color=8b5cf6" alt="npm version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/npm/l/kadans?color=64748b" alt="License: MIT"></a>
-  <a href="https://www.npmjs.com/package/kadans"><img src="https://img.shields.io/npm/dt/kadans?label=downloads" alt="npm downloads"></a>
+  <a href="https://www.npmjs.com/package/kadans"><img src="https://img.shields.io/npm/d18m/kadans?label=downloads" alt="npm downloads"></a>
   <a href="#install"><img src="https://img.shields.io/badge/macOS-install-2563eb?logo=apple&logoColor=white" alt="macOS: install"></a>
 </p>
 
